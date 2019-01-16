@@ -1,6 +1,6 @@
 package demo;
 
-public interface ForuneService {
+public interface FortuneService {
 
   public String getFortune();
 
