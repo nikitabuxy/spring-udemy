@@ -1,2 +1,3 @@
 rootProject.name = 'udemy-spring'
+include 'spring-annotation-ex'
 

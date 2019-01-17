@@ -1,9 +1,7 @@
-package demo;
+package spring.annotation.ex;
 
 public interface FortuneService {
 
   public String getFortune();
-
-  public String getRandomFortune();
 
 }

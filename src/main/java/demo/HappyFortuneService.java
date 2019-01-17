@@ -5,4 +5,9 @@ public class HappyFortuneService implements FortuneService {
     public String getFortune(){
       return "Happy Day!!"  ;
     }
+
+  @Override
+  public String getRandomFortune() {
+    return null;
+  }
 }
